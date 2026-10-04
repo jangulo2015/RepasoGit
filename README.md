@@ -1,2 +1,2 @@
 # RepasoGit
-Repo de repaso
+Repositorio de repaso
